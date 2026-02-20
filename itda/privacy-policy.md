@@ -26,7 +26,7 @@ Collected information is used for:
 
 ## 3. Data Storage
 
-- **Location**: Google Firebase (Google Cloud Platform, US region)
+- **Location**: Google Firebase (Google Cloud Platform, asia-northeast3 Seoul)
 - **Retention**: Until account deletion or upon user request
 - **Encryption**: All data is stored encrypted
 
@@ -94,7 +94,7 @@ This policy may be updated in accordance with legal and policy changes. Changes 
 
 ## 3. 정보 저장 및 보관
 
-- **저장 위치**: Google Firebase (Google Cloud Platform, 미국 리전)
+- **저장 위치**: Google Firebase (Google Cloud Platform, asia-northeast3 서울)
 - **보관 기간**: 계정 삭제 시까지 또는 사용자 요청 시 즉시 삭제
 - **암호화**: 모든 데이터는 암호화되어 저장됨
 
