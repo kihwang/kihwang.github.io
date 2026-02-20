@@ -16,14 +16,20 @@ itda works for any project where schedules and task sequences matter — constru
 
 ## Screenshots
 
-| | | |
-|:---:|:---:|:---:|
-| ![Project List](screenshots/01_project_list.png) | ![Gantt Chart](screenshots/02_gantt_chart.png) | ![CPM Diagram](screenshots/03_cpm_diagram.png) |
-| Project List | Gantt Chart | CPM Diagram |
-| ![CPM Report](screenshots/04_cpm_report_summary.png) | ![CPM Analysis](screenshots/05_cpm_analysis_table.png) | ![Float Analysis](screenshots/06_float_analysis.png) |
-| CPM Report | CPM Analysis | Float Analysis |
-| ![Task List](screenshots/07_task_list.png) | ![Settings](screenshots/08_settings.png) | |
-| Task List | Settings | |
+<table>
+<tr>
+<td align="center"><img src="screenshots/01_project_list.png" width="200"><br>Project List</td>
+<td align="center"><img src="screenshots/02_gantt_chart.png" width="200"><br>Gantt Chart</td>
+<td align="center"><img src="screenshots/03_cpm_diagram.png" width="200"><br>CPM Diagram</td>
+<td align="center"><img src="screenshots/04_cpm_report_summary.png" width="200"><br>CPM Report</td>
+</tr>
+<tr>
+<td align="center"><img src="screenshots/05_cpm_analysis_table.png" width="200"><br>CPM Analysis</td>
+<td align="center"><img src="screenshots/06_float_analysis.png" width="200"><br>Float Analysis</td>
+<td align="center"><img src="screenshots/07_task_list.png" width="200"><br>Task List</td>
+<td align="center"><img src="screenshots/08_settings.png" width="200"><br>Settings</td>
+</tr>
+</table>
 
 ---
 
