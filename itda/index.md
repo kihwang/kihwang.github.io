@@ -5,12 +5,12 @@ title: "itda — Project Process Management"
 
 # itda
 
-**Connect your tasks, schedules, and teams.**
+**Connect your workflow — task to task, predecessor to successor.**
 
 "itda(잇다)" means "to connect" in Korean.
-This app connects tasks to tasks, people to schedules, and plans to execution.
+A project management tool that links your entire workflow by connecting tasks and processes.
 
-itda works for any project where schedules and task sequences matter — construction, software development, large-scale projects, travel & event planning, and more.
+itda works for any project where scheduling and task sequencing matter — construction, manufacturing, IT, travel, event planning, and more.
 
 ---
 
@@ -31,9 +31,9 @@ itda works for any project where schedules and task sequences matter — constru
 
 ### Gantt Chart
 - Day / Week / Month zoom levels
-- Group tasks by category (phase)
-- Manual progress input for real-time tracking
+- Group tasks by category (Phase)
 - Tap a bar to view and edit task details
+- Completion check for progress tracking
 
 ### CPM Diagram
 - Freely arrange nodes in a network diagram
@@ -45,7 +45,7 @@ itda works for any project where schedules and task sequences matter — constru
 ### Export
 - Gantt chart / CPM diagram PDF printing
 - Gantt chart Excel (.xlsx) export
-- Presentation mode supported
+- Presentation mode supported (hide completion marks)
 
 ### Offline First
 - Full functionality without internet
