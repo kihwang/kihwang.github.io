@@ -1,0 +1,85 @@
+---
+layout: default
+title: "itda — Project Process Management"
+---
+
+# itda
+
+**Connect your workflow — task to task, predecessor to successor.**
+
+"itda(잇다)" means "to connect" in Korean.
+A project management tool that links your entire workflow by connecting tasks and processes.
+
+itda works for any project where scheduling and task sequencing matter — construction, IT, event planning, travel, festivals, team seminars, and more.
+
+---
+
+## Screenshots
+
+| | | |
+|:---:|:---:|:---:|
+| ![Project List](screenshots/01_project_list.png) | ![Gantt Chart](screenshots/02_gantt_chart.png) | ![CPM Diagram](screenshots/03_cpm_diagram.png) |
+| Project List | Gantt Chart | CPM Diagram |
+| ![CPM Report](screenshots/04_cpm_report_summary.png) | ![CPM Analysis](screenshots/05_cpm_analysis_table.png) | ![Float Analysis](screenshots/06_float_analysis.png) |
+| CPM Report | CPM Analysis | Float Analysis |
+| ![Task List](screenshots/07_task_list.png) | ![Settings](screenshots/08_settings.png) | |
+| Task List | Settings | |
+
+---
+
+## Key Features
+
+### Gantt Chart
+- Day / Week / Month zoom levels
+- Group tasks by category (Phase)
+- Tap a bar to view and edit task details
+- Completion check for progress tracking
+
+### CPM Diagram
+- Freely arrange nodes in a network diagram
+- Automatic ES/EF/LS/LF calculation
+- Critical Path auto-detection (highlighted in red)
+- Float analysis to spot bottlenecks early
+- Auto-generated CPM analysis reports
+
+### Export
+- Gantt chart / CPM diagram PDF printing
+- Gantt chart Excel (.xlsx) export
+- Presentation mode supported (hide completion marks)
+
+### Offline First
+- Full functionality without internet
+- Auto-sync when back online
+- Use without login (local mode)
+- Google / Apple Sign-In for cross-device sync
+
+### Templates
+- Built-in examples: Wood Construction, Software Development
+- Create your own custom templates for reuse
+- Start new projects from any template, then freely modify
+
+### Data Backup
+- Full data backup in JSON format
+- Restore anytime — ideal for remote sites without internet
+- Keep your data safe independently of cloud sync
+
+---
+
+## Download
+
+Available on the App Store (coming soon)
+
+---
+
+## Links
+
+- [Privacy Policy](../privacy-policy)
+- [Terms of Service](../terms-of-service)
+
+---
+
+## Contact
+
+midasoftapp@gmail.com
+
+---
