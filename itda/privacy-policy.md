@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy — itda
 
-**Last updated:** February 12, 2026
+**Last updated:** March 1, 2026
 
 ---
 
@@ -14,13 +14,14 @@ title: Privacy Policy
 The itda app collects the following information:
 
 - **Google Account Info**: Email address, display name (when using Google Sign-In)
+- **Apple Account Info**: Email address, name (when using Sign in with Apple)
 - **App Usage Data**: Project information, task data, settings
 
 ## 2. How We Use Information
 
 Collected information is used for:
 
-- **User Identification**: Through Google Account
+- **User Identification**: Through Google or Apple Account
 - **Data Synchronization**: Cloud backup and sync via Firestore
 - **Service Delivery**: Project management and schedule creation features
 
@@ -73,7 +74,7 @@ This policy may be updated in accordance with legal and policy changes. Changes 
 
 # 개인정보처리방침 — 잇다(itda)
 
-**최종 수정일:** 2026년 2월 12일
+**최종 수정일:** 2026년 3월 1일
 
 ---
 
@@ -82,13 +83,14 @@ This policy may be updated in accordance with legal and policy changes. Changes 
 잇다 앱은 다음 정보를 수집합니다:
 
 - **Google 계정 정보**: 이메일 주소, 표시 이름 (Google 로그인 시)
+- **Apple 계정 정보**: 이메일 주소, 이름 (Apple 로그인 시)
 - **앱 사용 데이터**: 프로젝트 정보, 작업 데이터, 설정 정보
 
 ## 2. 정보 사용 목적
 
 수집된 정보는 다음 목적으로 사용됩니다:
 
-- **사용자 식별**: Google 계정을 통한 개인 식별
+- **사용자 식별**: Google 또는 Apple 계정을 통한 개인 식별
 - **데이터 동기화**: 클라우드(Firestore)를 통한 데이터 백업 및 동기화
 - **서비스 제공**: 프로젝트 관리 및 공정표 작성 기능 제공
 
