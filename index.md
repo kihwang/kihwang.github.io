@@ -7,7 +7,8 @@ title: "MidaSoft"
 
 **Apps**
 
-- [itda — Project Schedule Management](itda/)
+- [itda — Project Schedule Management (Android)](itda/)
+- [itda — Project Schedule Management (iOS)](itda/ios/)
 
 ---
 
