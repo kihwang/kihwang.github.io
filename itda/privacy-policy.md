@@ -54,13 +54,13 @@ Users have the right to:
 To delete your data:
 
 1. **In-app**: Settings → Account Management → Delete Account
-2. **Email request**: midasoftapp@gmail.com
+2. **Email request**: support@midasoft.kr
 
 ## 8. Contact
 
 For privacy-related inquiries:
 
-- **Email**: midasoftapp@gmail.com
+- **Email**: support@midasoft.kr
 
 ## 9. Policy Changes
 
@@ -123,13 +123,13 @@ This policy may be updated in accordance with legal and policy changes. Changes 
 데이터 삭제를 원하시는 경우:
 
 1. **앱 내에서**: 설정 → 계정 관리에서 계정 삭제
-2. **이메일 요청**: midasoftapp@gmail.com으로 요청
+2. **이메일 요청**: support@midasoft.kr으로 요청
 
 ## 8. 연락처
 
 개인정보 보호 관련 문의사항이 있으시면 아래로 연락주세요:
 
-- **이메일**: midasoftapp@gmail.com
+- **이메일**: support@midasoft.kr
 
 ## 9. 개인정보처리방침 변경
 

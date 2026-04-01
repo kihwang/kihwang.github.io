@@ -62,7 +62,7 @@ Disputes related to these terms shall be resolved under the laws of the Republic
 
 For inquiries:
 
-- **Email**: midasoftapp@gmail.com
+- **Email**: support@midasoft.kr
 
 ---
 
@@ -129,7 +129,7 @@ For inquiries:
 
 문의사항이 있으시면 아래로 연락주세요:
 
-- **이메일**: midasoftapp@gmail.com
+- **이메일**: support@midasoft.kr
 
 ---
 

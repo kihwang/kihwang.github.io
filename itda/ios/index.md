@@ -86,6 +86,6 @@ Available on the App Store (coming soon)
 
 ## Contact
 
-midasoftapp@gmail.com
+support@midasoft.kr
 
 ---

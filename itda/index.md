@@ -86,6 +86,6 @@ itda works for any project where scheduling and task sequencing matter — const
 
 ## Contact
 
-midasoftapp@gmail.com
+support@midasoft.kr
 
 ---

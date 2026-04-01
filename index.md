@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "MidaSoft"
+title: "MiDaSoft"
 ---
 
-# MidaSoft
+# MiDaSoft
 
 **Apps**
 
@@ -12,4 +12,4 @@ title: "MidaSoft"
 
 ---
 
-Contact: midasoftapp@gmail.com
+Contact: support@midasoft.kr
