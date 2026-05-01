@@ -3,8 +3,6 @@ layout: default
 title: "MiDaSoft"
 ---
 
-# MiDaSoft
-
 **Apps (2026)**
 
 - [itda — Project Schedule Management (Android)](itda/)
